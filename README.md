@@ -12,3 +12,4 @@ action "My First Action" {
   args = "run hello-world"
 }
 ```
+# Actions
